@@ -36,7 +36,7 @@ Clone the Repository:
 Clone this repository to your local machine:
 
 bash
-git clone https://github.com/Harxhsoni/SQL-Projects/Library%20Management%20System.git
+git clone [https://github.com/Harxhsoni/SQL-Projects/Library%20Management%20System.git](https://github.com/Harxhsoni/SQL-Projects/tree/main/Library%20Management%20System)
 cd Library-Management-System
 Set Up the Environment:
 
